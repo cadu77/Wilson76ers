@@ -1,5 +1,7 @@
 <h1>Wilson76ers</h1>
 
+![76](https://user-images.githubusercontent.com/54817354/133727875-18c21918-0f6a-41c9-8a40-c1bd52061eac.JPG)
+
 Status: Concluido ✔️
 
 ### Uma aplicação web planejada por mim, onde coloco em pratica aprendizados de programação.
