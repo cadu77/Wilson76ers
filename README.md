@@ -31,3 +31,5 @@ Status: Concluido ✔️
 1) Baixe o arquivo zipado, ou se preferir faça o clone do projeto
 2) Extraia a pasta do projeto para a área de trabalho
 3) abra o arquivo index.html
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/54817354/133729267-753dc15e-953a-4887-bca9-82d31fd7b03d.gif)
